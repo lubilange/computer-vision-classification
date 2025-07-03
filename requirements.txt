@@ -1,5 +1,5 @@
 streamlit>=1.34
-tensorflow-cpu
+tensorflow
 numpy
 pillow
 requests
